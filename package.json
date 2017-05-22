@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "React-Redux on Node template",
+  "main": "client.js",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JDC",
+  "license": "ISC"
+}
